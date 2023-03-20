@@ -1,0 +1,2 @@
+vim.g["sneak#prompt"] = '🔎'
+
